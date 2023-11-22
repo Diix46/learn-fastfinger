@@ -1,8 +1,11 @@
+<script setup>
+import ListText from './components/ListText.vue';
+
+</script>
 <template>
   <header>
-    zadfazfa
   </header>
-
   <main>
+    <ListText />
   </main>
 </template>
